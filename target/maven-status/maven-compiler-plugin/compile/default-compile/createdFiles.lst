@@ -1,0 +1,4 @@
+com\mycompany\api\gateway\OrdenClient.class
+com\mycompany\api\gateway\Producto.class
+com\mycompany\api\gateway\GatewayResource.class
+com\mycompany\api\gateway\ProductoClient.class
